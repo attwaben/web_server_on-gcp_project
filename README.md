@@ -11,3 +11,5 @@
 5- Created index.html in dir  /var/www/html .
 
 6- Made some adjustments to the index.html file to import the images from the storage bucket.
+
+The index html file is a template from bootstrap templates on which I made some adjustments to embed photos and a youtube video and a form .
